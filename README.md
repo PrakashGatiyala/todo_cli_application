@@ -1,12 +1,12 @@
-### Todo CLI application
+# Todo CLI application
 
-# Use cases, running our application => commands
+## Use cases, running our application => commands
 - structuring our code
 - implemation along with testing
 - run and use it :)
 
 
-# use cases
+## use cases
 - create a todo list
 - show all the todo lists
 - Add , edit, delete, mark as complete, incomplete etc
