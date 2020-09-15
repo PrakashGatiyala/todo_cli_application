@@ -1,0 +1,10 @@
+Install virtualenv using
+1. pip install virtualenv 
+create a virtualenv there
+2. virtualenv myenv 
+activate it like
+3. myenv\Scripts\activate
+deactivate it like
+4. deactivate
+
+code -r . for opening folder in vs code
