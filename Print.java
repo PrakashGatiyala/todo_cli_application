@@ -6,7 +6,7 @@ final class StringUtils {
 
     /**
      * This is String concatenate method. I will return concatenated String
-     * 
+     *
      * @param s1
      * @param s2
      * @return I will return concatenated String
