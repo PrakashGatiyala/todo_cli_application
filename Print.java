@@ -1,7 +1,18 @@
-public class Main {
-    public static void main(final String[] args) {
-        String name = "Prakash Gatiyala";
-        System.out.print(name);
-    }
-}
+class StringUtils {
 
+    private StringUtils() {
+        throw new IllegalStateException("Utility class");
+    }
+
+    /**
+     * This is String concatenate method. I will return concatenated String
+     * 
+     * @param s1
+     * @param s2
+     * @return
+     */
+    public static String concatenate(final String s1, final String s2) {
+        return s1 + s2;
+    }
+
+}
