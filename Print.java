@@ -1,4 +1,4 @@
-class StringUtils {
+final class StringUtils {
 
     private StringUtils() {
         throw new IllegalStateException("Utility class");
@@ -9,7 +9,7 @@ class StringUtils {
      * 
      * @param s1
      * @param s2
-     * @return
+     * @return I will return concatenated String
      */
     public static String concatenate(final String s1, final String s2) {
         return s1 + s2;
